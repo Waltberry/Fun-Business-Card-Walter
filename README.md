@@ -1,6 +1,6 @@
 # Walter's Business Card
 
-![Walter's Business Card](https://walterbusinesscard.netlify.app/)
+![Walter's Business Card](images/Walt.jpg)
 
 ## Overview
 
